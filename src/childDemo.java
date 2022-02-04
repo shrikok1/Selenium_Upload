@@ -2,7 +2,7 @@ public class childDemo extends parentDemo{
 
 String name ="QAClickAcademy";
 
-
+//newly added in Gitx
 public childDemo()
 {
 super();// this should be always be at first line
