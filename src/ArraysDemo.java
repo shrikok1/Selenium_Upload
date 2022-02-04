@@ -3,7 +3,7 @@ public class ArraysDemo {
 public static void main(String[] args) {
 // TODO Auto-generated method stub
 
-
+//newly added
 
 /* int a;
 a=4;*/
