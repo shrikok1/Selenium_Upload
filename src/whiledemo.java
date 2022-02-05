@@ -3,7 +3,10 @@
 public class whiledemo {
 public static void main(String[] args) {
 // TODO Auto-generated method stub
-
+// TODO Auto-generated method stub
+// TODO Auto-generated method stub
+// TODO Auto-generated method stub
+// TODO Auto-generated method stub
 //While loop
 
 //1 to 10
